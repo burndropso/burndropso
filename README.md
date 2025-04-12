@@ -15,7 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme of the month
 <img src='https://api.apileague.com/retrieve-random-meme' style="height: 400px;"/>
+![image](https://github.com/user-attachments/assets/b15af60e-ad2e-4a54-b13a-bfb703a88215)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
