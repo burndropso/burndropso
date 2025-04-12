@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SD models<br>👯 I’m looking to collaborate on IOT solutions<br>🤝 I’m looking for help with dreambooth trainning<br>🌱 I’m currently learning SD+controlnet+LoRA<br>💬 Ask me about electronics<br>⚡ Fun fact: I have a large collection of lego star wars sets.
+🔭 I’m currently developing GGuide+<br>👯 I’m looking to collaborate on IOT solutions<br>🤝 I’m looking for help with three.js<br>🌱 I’m currently learning more about backend dev<br> 💬 Ask me about electronics<br>⚡ Fun fact: I have a large collection of lego star wars sets.
 
 
 ## 🌐 Socials:
