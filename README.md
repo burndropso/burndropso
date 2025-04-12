@@ -16,4 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Dev Meme of the month
-<img src='https://github.com/user-attachments/assets/b15af60e-ad2e-4a54-b13a-bfb703a88215' style="height: 400px;"/>
+<img src='https://github.com/user-attachments/assets/b15af60e-ad2e-4a54-b13a-bfb703a88215' style="height: 200px;"/>
